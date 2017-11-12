@@ -1,5 +1,6 @@
 # randomKey
 Generate random key of any length.
+Generated using javaScript's Math.random() function.
 
 # generateKey(128)
 ## Output 1
