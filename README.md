@@ -2,7 +2,7 @@
 Generate random key of any length.
 Generated using javaScript's Math.random() function.
 
-# generateKey(128)
+# gen(128)
 ## Output 1
 `g5r92rC6HCUo6tKI7E6v4M90Snm4fmrn6m1hT64a2zailmJ2XIa001zNWh2o83p25lkMGPlai0PLERZ0nCv3xipNs05H854AsRHqPaJM3dP4yldq0jRW6DrdWn2AG4xe`
 ## Output 2
